@@ -1,0 +1,7 @@
+alias cls='clear'
+alias ins='sudo apt-get install'
+alias rmv='sudo apt-get remove'
+alias upd='sudo apt-get update'
+alias his='history | grep'
+alias sch='sudo apt-cache search'
+alias repo='sudo apt-add-repositry'
